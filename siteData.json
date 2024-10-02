@@ -7,9 +7,11 @@
       "headings": {
         "about-us": "About Us",
         "project-team": "Project team",
-        "john-doe": "John Doe",
-        "jane-doe": "Jane Doe",
-        "johnny-doe": "Johnny Doe",
+        "chan-guan-yu": "Chan Guan Yu",
+        "chua-wee-kiat-nicholas": "Chua Wee Kiat Nicholas",
+        "haixin": "Haixin",
+        "nicholas-koh": "Nicholas Koh",
+        "lim-yixiang": "Lim Yixiang",
         "jean-doe": "Jean Doe",
         "james-doe": "James Doe"
       },
@@ -136,10 +138,41 @@
       "headingKeywords": {}
     },
     {
-      "src": "team/johndoe.md",
-      "title": "John Doe's Project Portfolio Page",
+      "src": "team/G_Y_Chan.md",
+      "title": "Guan Yu's Project Portfolio Page",
       "headings": {
-        "project-addressbook-level-3": "Project: AddressBook Level 3"
+        "project-clubconnect": "Project: ClubConnect"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "team/lihaixin000.md",
+      "title": "Haixin's Project Portfolio Page",
+      "headings": {
+        "project-clubconnect": "Project: ClubConnect"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "team/limyixiang.md",
+      "title": "Lim Yixiang's Project Portfolio Page",
+      "headings": {
+        "project-clubconnect": "Project: ClubConnect"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "team/nicholascwk.md",
+      "headings": {
+        "project-clubconnect": "Project: ClubConnect"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "team/nicholaskoh1.md",
+      "title": "Nicholas Koh's Project Portfolio Page",
+      "headings": {
+        "project-clubconnect": "Project: ClubConnect"
       },
       "headingKeywords": {}
     }
